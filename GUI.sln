@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{4C1EDD79-BFC5-4F09-82C7-568072D511E7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{2C3E81B1-1340-47FA-BC07-47C697245DA2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A93D82E7-00C0-4266-ACFB-C9657D9E27F9}"
+	ProjectSection(SolutionItems) = preProject
+		CCRE_Automaton\CCRE_Automaton.sln = CCRE_Automaton\CCRE_Automaton.sln
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCRE", "CCRE\CCRE.csproj", "{BB3A624F-A980-4E40-A770-03C1D8E887A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C1EDD79-BFC5-4F09-82C7-568072D511E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1EDD79-BFC5-4F09-82C7-568072D511E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1EDD79-BFC5-4F09-82C7-568072D511E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1EDD79-BFC5-4F09-82C7-568072D511E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB3A624F-A980-4E40-A770-03C1D8E887A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB3A624F-A980-4E40-A770-03C1D8E887A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB3A624F-A980-4E40-A770-03C1D8E887A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB3A624F-A980-4E40-A770-03C1D8E887A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
